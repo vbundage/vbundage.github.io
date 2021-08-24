@@ -4001,3 +4001,10 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	#profile {
+		border-radius: 100%;
+		padding-bottom: 2rem;
+		width: 25%;
+		min-width: 10rem;
+	}
